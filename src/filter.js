@@ -3,6 +3,10 @@ export const ids = [
 	'asports',
 	'starsportselect1',
 	'btsport1',
+	'foxsports1',
+	'tsn1',
+	'tsn3',
+	'abudhabisports2',
 	'tsportshd',
 	'dubaisports1',
 
