@@ -70,12 +70,12 @@ In the auto-update repo, set ALL of the following repository secrets (no default
 - PLAYLIST_REFERER: referer header value (use `null` if you want to disable auto)
 - PLAYLIST_ORIGIN: origin header value (use `null` if you want to disable auto)
 - CODE_REPO: `owner/ayna-tv-fetch` (this repo) so the workflow pulls the CLI/filter
-- CODE_REF: branch/tag to use in `CODE_REPO` (e.g., `main`)
+- CODE_REF: branch/tag to use in `CODE_REPO` (e.g., `master`)
 - FILTER_PATH: path to filter file in `CODE_REPO` (e.g., `src/filter.js`)
 - TARGET_REPO: repo to receive the JSONs (e.g., `owner/ayna-tv-fetch`)
 - TARGET_TOKEN: fine-grained PAT with contents:read/write on TARGET_REPO (required if the target repo is private; optional if public and you allow anonymous reads but writes still require PAT)
-- TARGET_BRANCH: branch in the target repo (e.g., `main`)
-- TARGET_DIR: folder path inside target repo (e.g., `public` or `.`)
+- TARGET_BRANCH: branch in the target repo (e.g., `master`)
+- TARGET_DIR: folder path inside target repo (e.g., `output` or `.`)
 
 
 ## auto-update repo in
@@ -83,12 +83,12 @@ Setup (repo secrets):
 - `PLAYLIST_URL`: required
 - `PLAYLIST_REFERER`: optional (use `null` to disable auto)
 - `PLAYLIST_ORIGIN`: optional (use `null` to disable auto)
-- `CODE_REPO`: `owner/ayna-tv-fetch`
-- `CODE_REF`: `main`
+- `CODE_REPO`: `tuhinx/ayna-tv-fetch`
+- `CODE_REF`: `master`
 - `CODE_TOKEN`: leave empty if `ayna-tv-fetch` is public; else PAT with Contents: Read
-- `TARGET_REPO`: `owner/ayna-tv-fetch`
-- `TARGET_TOKEN`: PAT with Contents: Read/Write on `ayna-tv-fetch`
-- `TARGET_BRANCH`: `main`
+- `TARGET_REPO`: `tuhinx/ayna-tv-fetch`
+- `TARGET_TOKEN`: PAT with Contents: Read/Write on `ayna-tv-fetch` ( Screct Token )
+- `TARGET_BRANCH`: `master`
 - `TARGET_DIR`: `output` (or desired folder)
 
 Behavior:
