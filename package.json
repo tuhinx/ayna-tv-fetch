@@ -1,0 +1,16 @@
+{
+  "name": "m3u-to-json",
+  "version": "1.0.0",
+  "description": "CLI to convert M3U/M3U8 playlist to JSON",
+  "type": "module",
+  "bin": {
+    "m3u-to-json": "bin/m3u-to-json.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "convert": "node src/index.js",
+    "test": "node src/index.js --help",
+    "build:json": "node bin/m3u-to-json.js --url https://github.com/abusaeeidx/Ayna-Playlists-free-Version/blob/main/playlist.m3u --filter src/filter.js --write-both --out-dir output --out api.json --out-filter filtered.json"
+  }
+}
+
