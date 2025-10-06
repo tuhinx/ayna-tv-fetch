@@ -1,5 +1,29 @@
 [
   {
+    "name": "A sports",
+    "id": "asports",
+    "logo": "https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902",
+    "link": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741206&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5a0bc2356583a90eda9d44a988b1f584",
+    "referer": null,
+    "origin": null
+  },
+  {
+    "name": "A sports",
+    "id": "asports",
+    "logo": "https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902",
+    "link": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741223&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a2744ce4938f1e1c1c6ace37acf30604",
+    "referer": null,
+    "origin": null
+  },
+  {
+    "name": "Star Sport Select 1",
+    "id": "starsportselect1",
+    "logo": "https://s3.aynaott.com/storage/c63d1f7c9c6d3c0d0fa552bb141a7f57",
+    "link": "https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d",
+    "referer": null,
+    "origin": null
+  },
+  {
     "name": "BT Sport 1",
     "id": "btsport1",
     "logo": "https://s3.aynaott.com/storage/9f913955280f14fc557d0c34df8bbd34",
@@ -52,30 +76,6 @@
     "id": "dubaisports1",
     "logo": "https://s3.aynaott.com/storage/5a8ac139e9c791c675ded04dd7f90529",
     "link": "https://tvsen6.aynaott.com/dubaisports1/index.m3u8?e=1753741224&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=c4374bf645a661a2897441b3c7a21397",
-    "referer": null,
-    "origin": null
-  },
-  {
-    "name": "A sports",
-    "id": "asports",
-    "logo": "https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902",
-    "link": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741206&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5a0bc2356583a90eda9d44a988b1f584",
-    "referer": null,
-    "origin": null
-  },
-  {
-    "name": "A sports",
-    "id": "asports",
-    "logo": "https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902",
-    "link": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741223&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a2744ce4938f1e1c1c6ace37acf30604",
-    "referer": null,
-    "origin": null
-  },
-  {
-    "name": "Star Sport Select 1",
-    "id": "starsportselect1",
-    "logo": "https://s3.aynaott.com/storage/c63d1f7c9c6d3c0d0fa552bb141a7f57",
-    "link": "https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d",
     "referer": null,
     "origin": null
   }
