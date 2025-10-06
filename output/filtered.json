@@ -1,5 +1,13 @@
 [
   {
+    "name": "BT Sport 1",
+    "id": "btsport1",
+    "logo": "https://s3.aynaott.com/storage/9f913955280f14fc557d0c34df8bbd34",
+    "link": "https://tvsen6.aynaott.com/btSport1/index.m3u8?e=1753741231&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=eac67baaa7aca3e60fd576ca112591bb",
+    "referer": null,
+    "origin": null
+  },
+  {
     "name": "T Sports HD",
     "id": "tsportshd",
     "logo": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32",
