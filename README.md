@@ -108,6 +108,23 @@ The auto-update workflow will:
 
 Cron schedule is every 5 minutes by default (changeable in `auto-update/.github/workflows/build-json.yml`).
 
+
+How to create and set it
+## Create PAT:
+- GitHub → Settings → Developer settings → Fine-grained tokens → Generate new token.
+- Repository access: Only select owner/ayna-tv-fetch.
+- Permissions: Contents → Read and Write; Metadata → Read.
+Set an expiration, generate, and copy the token.
+## Add as secret:
+Go to the auto-update repo → Settings → Secrets and variables → Actions → New repository secret.
+- Name: TARGET_TOKEN; Value: paste the PAT.
+## Notes
+Required even if ayna-tv-fetch is public; pushes always need a token.
+If you use classic tokens, give it the minimal repo scope and limit to the needed repo if possible.
+Do not use the auto-update repo’s default GITHUB_TOKEN; it cannot push to a different repo.
+
+
+
 ## Security notes
 - Never commit tokens. Use repo secrets for PLAYLIST_URL and TARGET_TOKEN.
 - Prefer fine-grained PAT restricted to the target repo with only Contents: Read/Write.
