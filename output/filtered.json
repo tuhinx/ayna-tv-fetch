@@ -62,13 +62,5 @@
     "link": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741223&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a2744ce4938f1e1c1c6ace37acf30604",
     "referer": "null",
     "origin": "null"
-  },
-  {
-    "name": "Star Sport Select 1",
-    "id": "starsportselect1",
-    "logo": "https://s3.aynaott.com/storage/c63d1f7c9c6d3c0d0fa552bb141a7f57",
-    "link": "https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d",
-    "referer": "null",
-    "origin": "null"
   }
 ]
