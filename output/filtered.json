@@ -32,6 +32,38 @@
     "origin": null
   },
   {
+    "name": "Fox Sports 1",
+    "id": "foxsports1",
+    "logo": "https://s3.aynaott.com/storage/fc53f127352ff48d4495407c0083b17b",
+    "link": "https://tvsen7.aynaott.com/foxsports1/index.m3u8?e=1753741231&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ed2fba3b242ba7da0d4b4d792d01c85d",
+    "referer": null,
+    "origin": null
+  },
+  {
+    "name": "TSN 1",
+    "id": "tsn1",
+    "logo": "https://s3.aynaott.com/storage/1552fc09ba15bbdb0f5305e29cb1db98",
+    "link": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1753741231&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=6401a4570f2733f232c36cf7b391e805",
+    "referer": null,
+    "origin": null
+  },
+  {
+    "name": "TSN 3",
+    "id": "tsn3",
+    "logo": "https://s3.aynaott.com/storage/dc6dfbda1b1fe9b075a3d559c089fb43",
+    "link": "https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1753741231&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b95457a23cf9e2723e00e3276c38ae22",
+    "referer": null,
+    "origin": null
+  },
+  {
+    "name": "Abu Dhabi Sports 2",
+    "id": "abudhabisports2",
+    "logo": "https://s3.aynaott.com/storage/453d902185dcc267936532f159461715",
+    "link": "https://tvsen6.aynaott.com/AbuDhabiSports2/index.m3u8?e=1753741228&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=af906af37a92b045ad0eb29eff4a35c4",
+    "referer": null,
+    "origin": null
+  },
+  {
     "name": "T Sports HD",
     "id": "tsportshd",
     "logo": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32",
