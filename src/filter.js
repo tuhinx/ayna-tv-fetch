@@ -7,7 +7,7 @@ export const ids = [
 	'tsn1',
 	'tsn3',
 	'abudhabisports2',
-	'tsportshd',
+	//'tsportshd',
 	'dubaisports1',
 
 ];
